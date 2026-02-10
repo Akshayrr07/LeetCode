@@ -26,4 +26,4 @@ Inorder traversal of a BST produces sorted values. Rebuilding the tree using the
 
 ### Edge Cases
 - Empty tree
-- Skewed BST
+- Skewed Binary Search Tree
