@@ -1,8 +1,16 @@
 # LeetCode Solutions
 
-Clean, well-documented LeetCode solutions focused on:
-- Correctness
-- Readability
-- Interview-ready explanations
+- Structured and interview-focused solutions designed to emphasize:
+- Algorithmic correctness
+- Optimized time and space complexity
+- Clean, production-quality code
+- Clear intuition and step-by-step explanation
 
-Languages: Python, Java, C
+# Each solution includes:
+
+- Problem intuition
+- Approach breakdown
+- Complexity analysis
+- Edge case handling
+
+# Supported Languages: Python | Java | C
